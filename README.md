@@ -1,0 +1,2 @@
+# string
+latihan1
